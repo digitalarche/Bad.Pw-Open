@@ -1,8 +1,6 @@
 # Introduction
 It is a bad password generator, it is part of source code from https://bad.pw/.  
-You can use it to built a bad password generator. However, you need following things:  
-PHP;  
-MySQL;  
+You can use it to built a bad password generator. This code is based on PHP and MySQL. So that, if you want to use it, you need `PHP` and `MySQL`.  
 
 # How?  
 1. Download the code.
