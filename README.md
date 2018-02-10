@@ -10,3 +10,6 @@ MySQL;
 3. Run setup.sql. This SQL file contains 1000 rows bad passwords.  
 4. Edit pass.php, and input your database username and password.
 5. Enjoy!
+
+# CopyRight
+This project based on MIT.  
