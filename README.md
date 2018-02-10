@@ -4,7 +4,7 @@ You can use it to built a bad password generator. However, you need following th
 PHP;  
 MySQL;  
 
-#How?  
+# How?  
 1. Download the code.
 2. Connect your MySQL, and create a new user and database. The database name is `badpw`.  
 3. Run setup.sql. This SQL file contains 1000 rows bad passwords.  
