@@ -1,5 +1,5 @@
 # Introduction
-It is a bad password generator, it is part of source code from https://bad.pw/.  
+It is a bad password generator, it is a part of source code from https://bad.pw/.  
 You can use it to built a bad password generator. This code is based on PHP and MySQL. So that, if you want to use it, you need `PHP` and `MySQL`.  
 
 # How?  
